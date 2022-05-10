@@ -32,7 +32,7 @@ input {
 html {
     font-size: 10px;
     overflow-x: hidden;
-    /* overflow-y: hidden; */
+    overflow-y: hidden;
 }
 
 body {
